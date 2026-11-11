@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://openliqd.com">Website</a> &nbsp; · &nbsp;
-  <a href="https://x.com/openliqd"><img src="https://raw.githubusercontent.com/openliqd/.github/main/assets/icons/x.svg" width="20" height="20" alt="" /> Follow on X</a> &nbsp; · &nbsp;
-  <a href="https://github.com/orgs/openliqd/repositories"><img src="https://raw.githubusercontent.com/openliqd/.github/main/assets/icons/github.svg" width="20" height="20" alt="" /> Explore repositories</a>
+  <a href="https://x.com/openliqd">Follow on X</a> &nbsp; · &nbsp;
+  <a href="https://github.com/orgs/openliqd/repositories">Explore repositories</a>
 </p>
 
 ## Liquidity starts in your wallet
