@@ -2,6 +2,8 @@
 
 Start with the target repository's README and contribution guide. Repository-specific instructions take precedence over this shared baseline.
 
+The `openliqd/.github` profile repository accepts pull requests from collaborators with write access only. Other repositories define their own contribution policy.
+
 ## Keep changes focused
 
 Use one branch and pull request per coherent change. Explain substantial changes in an issue before implementing them. For this profile repository, contributions should improve presentation, accessibility, documentation or link accuracy.

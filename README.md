@@ -17,4 +17,4 @@ The public home of OpenLiqd's organization profile and shared contribution guida
 
 This repository contains presentation and community files. Protocol implementations, deployments and releases have their own repositories and lifecycle.
 
-To improve the profile, open a focused pull request. Check image rendering, links and the accuracy of product claims before submitting.
+This organization profile is maintained by OpenLiqd collaborators. Pull request creation is restricted to collaborators with write access. Maintainers should keep changes focused and check image rendering, links and the accuracy of product claims.
