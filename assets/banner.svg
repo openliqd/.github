@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title description">
+  <title id="title">OpenLiqd — Be the market.</title>
+  <desc id="description">OpenLiqd's bell-and-bars mark on a midnight blue background. Wallet-based liquidity. Onchain execution.</desc>
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="48%" r="65%">
+      <stop offset="0" stop-color="#113a50"/>
+      <stop offset="1" stop-color="#060a10"/>
+    </radialGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#a9cde2"/>
+      <stop offset="1" stop-color="#7debd3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="480" rx="24" fill="#060a10"/>
+  <rect width="1280" height="480" rx="24" fill="url(#glow)"/>
+  <g fill="none" stroke="#8fd3f0" stroke-opacity=".1">
+    <circle cx="1015" cy="240" r="175"/>
+    <circle cx="1015" cy="240" r="225"/>
+    <path d="M780 240h470M1015 25v430"/>
+  </g>
+  <g fill="#f4f6f8" font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="93" font-size="30" font-weight="600" letter-spacing="-.8">OpenLiqd</text>
+    <text x="66" y="250" font-size="88" font-weight="600" letter-spacing="-5">Be the market.</text>
+    <text x="70" y="303" font-size="25" fill="#aeb7c4">Liquidity, powered by your wallet.</text>
+    <text x="70" y="413" font-size="13" letter-spacing="2.4" fill="#8fd3f0">WALLET-BASED LIQUIDITY</text>
+    <circle cx="340" cy="408" r="3" fill="#7debd3"/>
+    <text x="361" y="413" font-size="13" letter-spacing="2.4" fill="#8fd3f0">ONCHAIN EXECUTION</text>
+  </g>
+  <g transform="translate(883 105) scale(1.1)" fill="url(#mark)">
+    <path d="M40 112C40 62 76 28 120 28S200 62 200 112Z"/>
+    <path d="M40 120h20v42a10 10 0 0 1-20 0Z"/>
+    <path d="M75 120h20v70a10 10 0 0 1-20 0Z"/>
+    <path d="M110 120h20v90a10 10 0 0 1-20 0Z"/>
+    <path d="M145 120h20v70a10 10 0 0 1-20 0Z"/>
+    <path d="M180 120h20v42a10 10 0 0 1-20 0Z"/>
+  </g>
+  <circle cx="840" cy="240" r="5" fill="#7debd3"/>
+  <circle cx="1015" cy="65" r="4" fill="#8fd3f0"/>
+</svg>
